@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "心做し",
+  "base_artist": "蝶々P",
+  "createdAt": "2025-12-07T19:34:52.916565Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "心做し(カバー)",
+      "artist": "majiko",
+      "has_synced": true,
+      "path": "select/01_心做し(カバー)_majiko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "心做し",
+      "artist": "majiko",
+      "has_synced": true,
+      "path": "select/02_心做し_majiko.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "心做し",
+      "artist": "Akane",
+      "has_synced": false,
+      "path": "select/03_心做し_Akane.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "心做し(カバー)",
+      "artist": "いかさん",
+      "has_synced": true,
+      "path": "select/04_心做し(カバー)_いかさん.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "心做し - 2019 Live Version",
+      "artist": "majiko",
+      "has_synced": true,
+      "path": "select/05_心做し_-_2019_Live_Version_majiko.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "心做し",
+      "artist": "いかさん",
+      "has_synced": true,
+      "path": "select/06_心做し_いかさん.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "心做し (2019 Live Version)",
+      "artist": "majiko (まじ娘)",
+      "has_synced": true,
+      "path": "select/07_心做し_(2019_Live_Version)_majiko_(まじ娘).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "心做し",
+      "artist": "双笙 (陈元汐)",
+      "has_synced": false,
+      "path": "select/08_心做し_双笙_(陈元汐).txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "心做し (心理作用)",
+      "artist": "双笙 (陈元汐)",
+      "has_synced": false,
+      "path": "select/09_心做し_(心理作用)_双笙_(陈元汐).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "心做し",
+      "artist": "majiko",
+      "has_synced": true,
+      "path": "select/10_心做し_majiko.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "心做し",
+      "artist": "蝶々P; いかさん",
+      "has_synced": true,
+      "path": "select/11_心做し_蝶々P;_いかさん.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "心做し",
+      "artist": "luz",
+      "has_synced": true,
+      "path": "select/12_心做し_luz.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "心做し",
+      "artist": "Akuya",
+      "has_synced": true,
+      "path": "select/13_心做し_Akuya.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "心做し - Kokoronashi",
+      "artist": "Akane",
+      "has_synced": true,
+      "path": "select/14_心做し_-_Kokoronashi_Akane.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "心做し",
+      "artist": "蝶々P",
+      "has_synced": true,
+      "path": "select/15_心做し_蝶々P.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "majiko - 心做し [LIVE]",
+      "artist": "majiko",
+      "has_synced": true,
+      "path": "select/16_majiko_-_心做し_[LIVE]_majiko.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "心做し (心理作用)",
+      "artist": "cici_",
+      "has_synced": true,
+      "path": "select/17_心做し_(心理作用)_cici.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "心做し",
+      "artist": "majiko",
+      "has_synced": true,
+      "path": "select/18_心做し_majiko.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "心做し (2017 Live Version) - Kokoronashi (2017 Live Version)",
+      "artist": "majiko",
+      "has_synced": false,
+      "path": "select/19_心做し_(2017_Live_Version)_-_Kokoronashi_(2017_Live_Version)_majiko.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心做し",
+      "artist": "蝶々P",
+      "has_synced": false,
+      "path": "select/pl_01_心做し_蝶々P.txt"
+    }
+  ]
+}
